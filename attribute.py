@@ -1,6 +1,8 @@
 # coding:utf-8
-
-class A():
+'''
+学习class的几个常用属性
+'''
+class A(object):
     pass
 
 if __name__ == '__main__':
