@@ -1,2 +1,2 @@
-# mysrc
-This is my persional learning project.
+# mysrc项目介绍
+This is my **persional** learning project.
