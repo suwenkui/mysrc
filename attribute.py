@@ -1,6 +1,7 @@
 # coding:utf-8
 '''
 学习class的几个常用属性
+__author__ = suwenkui
 '''
 class A(object):
     pass
