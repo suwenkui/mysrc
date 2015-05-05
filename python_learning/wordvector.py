@@ -2,6 +2,7 @@ from collections import Counter
 import string
 import math
 import numpy as np
+
 mydoclist = ['Julie loves me more than Linda loves me',
 'Jane likes me more than Julie loves me',
 'He likes basketball more than baseball']
