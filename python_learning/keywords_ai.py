@@ -7,7 +7,7 @@ def split_data(path=FILE_PATH):
     print path
     with open(path) as data:
         for line in data:
-            print line
+            print line.split('0x04')
             break
 
 if __name__ == '__main__':
