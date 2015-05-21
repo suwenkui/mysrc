@@ -4,6 +4,7 @@ __author__ = 'suwk'
 FILE_PATH = '../data/keywords_user.log'
 
 def split_data(path=FILE_PATH):
+    print path
     with open(path) as data:
         for line in data:
             print line
